@@ -1,0 +1,2 @@
+# irCappedSwap
+A capped swap is an interest rate swap with an interest rate cap option where the floating rate of the swap is capped at a certain level while a floored swap is an interest rate swap with a floor option where the floating rate of the swap is floored at a certain level. Capped swaps or floored swaps limit the risk of the floating rate payer or receiver to adverse movements in interest rates. A capped swap can be decomposed into a swap and a cap whereas a floored swap can be decomposed into a swap and a floor. 
