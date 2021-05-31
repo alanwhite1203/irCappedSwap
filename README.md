@@ -82,4 +82,8 @@ Type	LIBOR
 
 
 Reference:
-https://finpricing.com/knowledge.html
+
+https://finpricing.com/lib/EqLookback.html
+
+https://bitbucket.org/cmrm11/ircappedswap/downloads/IrCappedSwap-31.pdf
+
